@@ -12,4 +12,4 @@ Some of the websites I have built using React.js
 #9 Quizz App: https://quizz-app-9.netlify.app/ <br />
 #10 Simple React app with strong focus on optimization: https://react-optimization-10.netlify.app/<br />
 #11 React login form with custom hook: https://custom-user-input-hook-11.netlify.app/ <br />
-#12 Food Order App(First time using backend with React): https://food-order-app-12.netlify.app/ <br />
+#12 Food Order App(First time using backend with React,sometimes fetching data from the backend can take up to 20s due to the slow hoisting server speed,please wait): https://food-order-app-12.netlify.app/ <br />
